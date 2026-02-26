@@ -32,3 +32,11 @@
 
 ---
 
+## Контрольная точка №1
+
+**Материалы:**  
+- [Код — index.php](https://github.com/Webber-07/PHP/blob/main/КТ1/index.php)
+- [Скриншот — image.png](https://github.com/Webber-07/PHP/blob/main/КТ1/КТ1.png)
+
+---
+

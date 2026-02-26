@@ -1,8 +1,8 @@
 <?php
-// Весь PHP-код должен быть в самом начале, до любого HTML
+
 session_start();
 
-// Инициализация
+
 if (!isset($_SESSION['goodbye_count'])) {
     $_SESSION['goodbye_count'] = 0;
 }
@@ -15,7 +15,7 @@ function getRandomYear() {
     return rand(1930, 1950);
 }
 
-// Обработка сообщения
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['message'])) {
     $userMessage = trim($_POST['message']);
 
@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['message'])) {
     }
 }
 
-// Проверяем, закончен ли диалог
+
 $lastMessage = end($_SESSION['messages']);
 $dialogEnded = ($lastMessage && $lastMessage['type'] === 'bot' && $lastMessage['text'] === 'ДО СВИДАНИЯ, МИЛЫЙ!');
 ?>
@@ -170,7 +170,7 @@ $dialogEnded = ($lastMessage && $lastMessage['type'] === 'bot' && $lastMessage['
 
         <div class="chat" id="chat">
             <?php
-            // Вывод сообщений
+            
             foreach ($_SESSION['messages'] as $msg) {
                 $class = ($msg['type'] === 'bot') ? 'bot-message' : 'user-message';
                 echo "<div class='message {$class}'>" . htmlspecialchars($msg['text']) . "</div>";
@@ -199,10 +199,10 @@ $dialogEnded = ($lastMessage && $lastMessage['type'] === 'bot' && $lastMessage['
     </div>
 
     <script>
-        // Скролл вниз
+        
         document.getElementById('chat').scrollTop = document.getElementById('chat').scrollHeight;
 
-        // Очистка поля
+        
         document.getElementById('messageForm').onsubmit = function() {
             setTimeout(() => {
                 document.getElementById('messageInput').value = '';

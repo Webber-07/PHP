@@ -6,7 +6,9 @@
 - [arrays](https://github.com/Webber-07/PHP/blob/main/Введение/examples/04_arrays.php)
 - [task_01](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_01.php)
 - [task_02](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_02.php)
-
+- [task_03](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_03.php)
+- [task_04](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_04.php)
+- [task_05](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_05.php)
 ---
 
 ## Введение
@@ -29,6 +31,9 @@
 |---------|-----|----------|
 | Задание №1 | [task_01.php](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_01.php) | [image_task_01.png](https://github.com/Webber-07/PHP/blob/main/Введение/examples/image_task_01.png) |
 | Задание №2 | [task_02.php](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_02.php) | [image_task_02.png](https://github.com/Webber-07/PHP/blob/main/Введение/examples/image_task_02.png) |
+| Задание №3 | [task_02.php](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_03.php) | [image_task_02.png](https://github.com/Webber-07/PHP/blob/main/Введение/examples/image_task_03.png) |
+| Задание №4 | [task_02.php](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_04.php) | [image_task_02.png](https://github.com/Webber-07/PHP/blob/main/Введение/examples/image_task_04.png) |
+| Задание №5 | [task_02.php](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_05.php) | [image_task_02.png](https://github.com/Webber-07/PHP/blob/main/Введение/examples/image_task_05.png) |
 
 ---
 

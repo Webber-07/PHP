@@ -4,10 +4,10 @@
 
 ## Содержание 
 - [arrays](https://github.com/Webber-07/PHP/blob/main/Введение/examples/04_arrays.php)
-- [task_01](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_01.php)
-- [task_02](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_02.php)
-- [task_03](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_03.php)
-- [task_04](https://github.com/Webber-07/PHP/blob/main/Введение/examples/task_04.php)
+- [task_01](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_01.php)
+- [task_02](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_02.php)
+- [task_03](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_03.php)
+- [task_04](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_04.php)
 - [task_05](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_05.php)
 ---
 

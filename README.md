@@ -41,7 +41,7 @@
 
 **Материалы:**  
 - [Код — index.php](https://github.com/Webber-07/PHP/blob/main/КТ1/index.php)
-- [Скриншот — image.png](https://github.com/Webber-07/PHP/blob/main/КТ1/КТ1.png)
+- [Скриншот — image.png](https://github.com/Webber-07/PHP/blob/main/%D0%9A%D0%A21/image.png)
 
 ---
 

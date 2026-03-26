@@ -9,6 +9,9 @@
 - [task_03](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_03.php)
 - [task_04](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_04.php)
 - [task_05](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_05.php)
+- [task_06](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_06.php)
+- [task_07](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_07.php)
+- [task_07_gen](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_07_gen.php)
 ---
 
 ## Введение
@@ -34,6 +37,9 @@
 | Задание №3 | [task_03.php](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_03.php) | [image_task_03.png](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/image_task_03.png) |
 | Задание №4 | [task_04.php](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_04.php) | [image_task_04.png](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/image_task_04.png) |
 | Задание №5 | [task_05.php](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_05.php) | [image_task_05.png](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/image_task_05.png) |
+| Задание №6 | [task_05.php](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_06.php) | [image_task_05.png](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/image_task_06.png) |
+| Задание №7 | [task_05.php](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_07.php) | [image_task_05.png](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/image_task_07.png) |
+| Задание №7_gen | [task_05.php](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/task_07_gen.php) | [image_task_05.png](https://github.com/Webber-07/PHP/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/tasks/image_task_07.png) |
 
 ---
 

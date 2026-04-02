@@ -56,6 +56,6 @@
 **Материалы:**  
 - [Код — index.php](https://github.com/Webber-07/PHP/blob/main/KT2/index.php)
 - [Код — captcha.php](https://github.com/Webber-07/PHP/blob/main/KT2/captcha.php)
-- [Скриншот — image.png](https://github.com/Webber-07/PHP/blob/main/KT2/captcha.png)
+- [Скриншот — captcha.png](https://github.com/Webber-07/PHP/blob/main/KT2/captcha.png)
 ---
 
